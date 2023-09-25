@@ -1,0 +1,33 @@
+age
+sex
+symptom
+smoking history
+Family history of cancer
+CEA
+histologic subtype
+lymph node metastasis
+distant metastasis
+VPI classfication
+bronchial invasion
+pathologic stage
+clinical T stage
+location
+density
+whole maximum diameter
+consolidation maximum diameter
+CTR
+CTR type
+vacuole sign
+cavity
+calcification
+shape
+spiculated sign
+lobulated sign
+boundary
+halo sign
+air bronchogram
+vessel convergence
+pleural indentation
+CT subtype of pleura
+minimum distance from the lesion to the pleura
+maximum diameter of contact with pleura
